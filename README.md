@@ -1,4 +1,6 @@
 A sample SAP iOS app.
 
-![Alt text](/SAP-iOS_app/iPad_screeenshots_01.png?raw=true "iPad_screeenshots_01")
+![iPad_screeenshots_01](/SAP-iOS_app/iPad_screeenshots_01.png?raw=true "iPad_screeenshots_01")
+
+![Alt text](../SAP-iOS_app/iPad_screeenshots_01.png?raw=true "Optional Title")
 
